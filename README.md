@@ -15,4 +15,4 @@ Understanding consumer habits is essential for optimizing marketing spend, predi
 ---
 
 ## 🖥️ Interactive Dashboard Preview
-*(Take a high-res screenshot of your completed Power BI dashboard, name the file `customer_dashboard.png`, upload it directly into this repository folder, and then replace this line with: `![Power BI Dashboard](customer_dashboard.png)`)*
+![Power BI Dashboard](customer_behavior_analysis_dashboard.png)
